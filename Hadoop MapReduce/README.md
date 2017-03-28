@@ -1,3 +1,5 @@
+**HADOOP MAPREDUCE**
+
 **CREATING DATASETS**
 
 Write a java program that creates two datasets (two files), Customers and Transactions. Each line in Customers file represents one customer, and each line in Transactions file represents one transaction. The attributed within each line are comma separated.
